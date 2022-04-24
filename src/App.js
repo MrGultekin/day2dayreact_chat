@@ -16,6 +16,7 @@ function App() {
                 onNewMessage={() => new Audio('https://chat-engine-assets.s3.amazonaws.com/click.mp3').play()}
             />
         </div>
+
     );
 }
 export default App;
