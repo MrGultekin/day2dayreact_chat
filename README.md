@@ -4,7 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Follow the steps to reach your GOAL
 #### 1- `https://chatengine.io/ open an account` 
-#### 2- `npm i @ant-design/icons axios react-chat-engine --legacy-peer-deps` \
+#### 2- `npm i @ant-design/icons axios react-chat-engine --legacy-peer-deps` 
+#### 3- `npm install antd` 
+#### 3- `npm install antd` 
 
 
 

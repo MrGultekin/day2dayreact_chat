@@ -1,7 +1,7 @@
 import './App.css';
-import {ChatEngine, ChatFeed} from "react-chat-engine";
-
-import(ChatEngine)
+import {ChatEngine} from "react-chat-engine";
+import ChatFeed from "./components/ChatFeed";
+import(ChatFeed)
 const projectID = 'f36113f7-5bc3-487a-80c4-4a1c183c390d ';
 
 function App() {
