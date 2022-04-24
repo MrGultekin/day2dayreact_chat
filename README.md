@@ -2,7 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Follow the steps to reach your GOAL
+#### 1- `npm i @ant-design/icons axios react-chat-engine --legacy-peer-deps` \
+#### 1- `npm i @ant-design/icons axios react-chat-engine --force` \
+#### 1- `npm i @ant-design/icons axios react-chat-engine --force` \
+#### 1- `npm i @ant-design/icons axios react-chat-engine --force` \
+
 
 In the project directory, you can run:
 
